@@ -346,7 +346,7 @@ img.aligncenter {
 	z-index: 999;
 }
 .navbar-brand {
-	width: 4.75rem;
+	width: 150px;
 }
 .navbar-brand img {
 	width: 100%;
@@ -1166,7 +1166,7 @@ blockquote h5,blockquote .h5 {
 	letter-spacing: .05rem;
 }
 .f-logo {
-	width: 4.75rem;
+	width: 150px;
 }
 .logo-wrap {
 	margin-bottom: 2.5rem;
